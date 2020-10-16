@@ -5,7 +5,7 @@
     "icons": {},
     "browser_action": {
         "default_icons": "icon.png",
-        "default_popup": "icon.png"
+        "default_popup": "popup.html"
     },
     "permissions": ["activeTab"]
 }
