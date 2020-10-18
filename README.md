@@ -25,4 +25,4 @@
 
 ## Extension Architecture
 
-https://developer.chrome.com/static/images/overview/messagingarc.png
+![Chrome Extension Architecture](https://developer.chrome.com/static/images/overview/messagingarc.png)
