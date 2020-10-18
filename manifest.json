@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "Chrome Extension Example",
+    "name": "Chrome Extension Boilerplate",
     "version": "1.0.0",
     "icons": {
         "128": "icon_128.png"
