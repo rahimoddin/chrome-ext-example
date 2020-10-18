@@ -3,10 +3,16 @@
 
 ## What it containes?
 
-- manifest.json
-- popup.html with sample html/css
-- sample icons
-- sample logo
+### manifest.json
 
+### popup.html
+
+### icons
+
+### logo
+
+### popup.js
+
+### background.js
 
 
